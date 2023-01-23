@@ -1,2 +1,2 @@
 # FibonacciSeries_Recursion
-This is the program of python using Fibonacci Series using Recursion
+This is the program of Fibonacci Series in python using Recursion
